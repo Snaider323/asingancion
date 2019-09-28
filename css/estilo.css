@@ -1,0 +1,30 @@
+body{
+    background: rgba(100, 100,100, 0.8);
+    width: 800px;
+    height: 500px;
+    margin:55px auto;
+    
+}
+header ul li{
+
+    list-style: none;
+    float: left;
+    margin-right: 20px;
+    background: #333;
+    width: 150px;
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+}
+header ul li a 
+{
+    text-decoration: none;
+    font-size: 21px;
+    color: antiquewhite;
+}
+header ul li:hover{
+    background: orange;
+}
+.card-header{
+    color:white;
+}
